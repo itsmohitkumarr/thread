@@ -90,8 +90,8 @@ const CreatePost = () => {
     <>
       <Button
         position={"fixed"}
-        bottom={14}
-        right={96}
+        bottom={10}
+        right={5}
         borderRadius={"full"}
         bg={"blue.400"}
         color={"white"}
